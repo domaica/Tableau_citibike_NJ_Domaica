@@ -54,15 +54,15 @@ https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Im
 
 3./ Rename some columns
 
-4./ Rename some content (f.ex gender stored as 0,1,2 instead of 'male', 'female', 'unknown'
+4./ Rename some content (f.ex gender stored as 0,1,2 instead of 'male', 'female', 'unknown')
 
-LINK########################
+https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/rename_content.png
 
 5./ Change object types to be able to operate with them.
 
 6./ Calculate 'age' substracting from year where record was updated (2019) the corresponding 'birth year'
 
-LINK########################
+https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/age.png
 
 7./ Additional things as create age segments through bins, etc.
 
@@ -70,17 +70,19 @@ LINK########################
 
 Save results in csv file.
 
+https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/final%20csv.png
+
+
 ### 2nd Step.- ANALYSIS. 'DOMAICA_NJ_citibike_2019_v1.twbx'
 
 It has been created with tableau desktop. It contains Multiple sheets, dashboards and a story. Please refer to it for analysis and results.
 
 I've been unable to link it to Tableau Public and publish it in internet. Whenever i tried to open the file as .twbx with Tableau Public, the system produces an error like it has to exist previouly in tableau public. 
 
+https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/error.png
 
-LINK########################
 
-
-I cannot send it from desktop to public because the only 2 ways I can do it are:
+I cannot send it from Tableau desktop to Tableau public because the only 2 ways I can do it are:
 
 1./ Reproduce the whole work step by step recreating every sheet, dashboard and story, which is long and unpractical.
 2./ Get additional "Tableau Server" software.
