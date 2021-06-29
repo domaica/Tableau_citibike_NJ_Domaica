@@ -32,8 +32,20 @@ Inside that root folder, we can find 3 files:
 And 3 additional folders:
 
 - 'instructions'.- Folder containing initial instructions for exercise.
+- 'instructions/Images' .- Subfolder with some images used for readme.md explanations.
 - 'data2019NJ'.- downloaded zip files with data for analysis
 - 'Final_resources_NJ'.- up to 14 .csv files in different subfolders with monthly data. Final file 'FINALALL2019-citibike-NJ.csv' after ETL transformation containing saved data.
+
+## Processing of data & analysis
+
+
+
+### 1st Step.- Data processing
+
+#### EXTRACTION
+Downloaded 12 csv files from Citi Bike Data webpage for year 2019 and decided to do analysis for Jersey City (New Jersey) instead of New York.
+
+https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/csv.png?raw=true
 
 
 
