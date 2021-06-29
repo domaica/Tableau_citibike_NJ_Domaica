@@ -92,7 +92,7 @@ I cannot send it from Tableau desktop to Tableau public because the only 2 ways 
 So I will leave it as a github link.
 
 
-### - Webpage published in following link:
+### - Repository content published in following link:
 
 https://github.com/domaica/Tableau_citibike_NJ_Domaica
 
