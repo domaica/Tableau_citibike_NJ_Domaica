@@ -46,7 +46,6 @@ Downloaded 12 csv files from Citi Bike Data webpage for year 2019 and decided to
 
 ![alt text](https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/csv.png)
 
-https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/csv.png?raw=true
 
 #### TRANSFORMATION
 
@@ -58,13 +57,14 @@ https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Im
 
 4./ Rename some content (f.ex gender stored as 0,1,2 instead of 'male', 'female', 'unknown')
 
-https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/rename_content.png
+![alt text](https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/rename_content.png)
 
 5./ Change object types to be able to operate with them.
 
 6./ Calculate 'age' substracting from year where record was updated (2019) the corresponding 'birth year'
 
-https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/age.png
+![alt text](https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/age.png)
+
 
 7./ Additional things as create age segments through bins, etc.
 
@@ -72,7 +72,7 @@ https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Im
 
 Save results in csv file.
 
-https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/final%20csv.png
+![alt text](https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/final%20csv.png)
 
 
 ### 2nd Step.- ANALYSIS. 'DOMAICA_NJ_citibike_2019_v1.twbx'
@@ -81,7 +81,7 @@ It has been created with tableau desktop. It contains Multiple sheets, dashboard
 
 I've been unable to link it to Tableau Public and publish it in internet. Whenever i tried to open the file as .twbx with Tableau Public, the system produces an error like it has to exist previouly in tableau public. 
 
-https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/error.png
+![alt text](https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/error.png)
 
 
 I cannot send it from Tableau desktop to Tableau public because the only 2 ways I can do it are:
