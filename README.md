@@ -44,6 +44,8 @@ And 3 additional folders:
 #### EXTRACTION
 Downloaded 12 csv files from Citi Bike Data webpage for year 2019 and decided to do analysis for Jersey City (New Jersey) instead of New York.
 
+![alt text](https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/csv.png)
+
 https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/csv.png?raw=true
 
 #### TRANSFORMATION
@@ -92,6 +94,6 @@ So I will leave it as a github link.
 
 ### - Webpage published in following link:
 
-https://domaica.github.io/homework17/
+https://github.com/domaica/Tableau_citibike_NJ_Domaica
 
 
