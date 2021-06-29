@@ -15,7 +15,7 @@ Jersey City datasets are more manageable than NY ones.
 
 ## Main technologies used to deploy this project
 
-- 'Python' programming language including 'pandas'package.
+- 'Python' programming language including 'pandas' package.
 - 'Tableau' as visual analytics platform or visualization tool.
 
 
@@ -66,7 +66,7 @@ Downloaded 12 csv files from Citi Bike Data webpage for year 2019 and decided to
 ![alt text](https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/age.png)
 
 
-7./ Additional things as create age segments through bins, etc.
+7./ Additional things as create age segments through bins, new columns to identify trips, etc.
 
 #### LOAD
 
