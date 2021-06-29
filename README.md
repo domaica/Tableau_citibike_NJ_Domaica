@@ -57,7 +57,7 @@ Downloaded 12 csv files from Citi Bike Data webpage for year 2019 and decided to
 
 4./ Rename some content (f.ex gender stored as 0,1,2 instead of 'male', 'female', 'unknown')
 
-![alt text](https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/rename_content.png)
+![alt text](https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/rename_content1.png)
 
 5./ Change object types to be able to operate with them.
 
