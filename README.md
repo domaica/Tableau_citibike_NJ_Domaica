@@ -79,6 +79,12 @@ Save results in csv file.
 
 It has been created with tableau desktop. It contains Multiple sheets, dashboards and a story. Please refer to it for analysis and results.
 
+
+
+### - Repository content published in following link:
+
+https://github.com/domaica/Tableau_citibike_NJ_Domaica
+
 I've been unable to link it to Tableau Public and publish it in internet. Whenever i tried to open the file as .twbx with Tableau Public, the system produces an error like it has to exist previouly in tableau public. 
 
 ![alt text](https://github.com/domaica/Tableau_citibike_NJ_Domaica/blob/main/Instructions/Images/error.png)
@@ -90,10 +96,3 @@ I cannot send it from Tableau desktop to Tableau public because the only 2 ways 
 2./ Get additional "Tableau Server" software.
 
 So I will leave it as a github link.
-
-
-### - Repository content published in following link:
-
-https://github.com/domaica/Tableau_citibike_NJ_Domaica
-
-
